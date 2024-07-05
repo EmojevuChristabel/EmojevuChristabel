@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @EmojevuChristabel
-- 👀 I’m interested in cloud architecture and devops
-- 🌱 I’m currently learning and building cloud projects 
-- 💞️ I’m looking to collaborate on building cloud projects and networking
+- 👋 I'm a progressive cloud engineer with a passion for learning cloud services and implementing cloud infrastructures
+- 👀 I have a major interest in serverless cloud infrastructures using Faas (Functions as a service) and CI/CD using GitHub Actions
+- 🌱 I’m currently expanding my knowledge by learning and building cloud projects 
 - 📫 How to reach me emojevu.christabel@gmail.com
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact:
 
 <!---
 EmojevuChristabel/EmojevuChristabel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
